@@ -21,3 +21,11 @@ This eCommerce app is a web application built using Flask, a lightweight Python 
 
 ## Project Structure
 
+
+## Getting Started
+
+### Prerequisites
+
+- **Python 3.9+**
+- **Docker** and **Docker Compose**
+
